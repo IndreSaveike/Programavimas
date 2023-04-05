@@ -26,6 +26,7 @@ class Program
         Console.WriteLine();
 
         //Liepkite įvesti egzamino rezultatą. Atlikite šiuos patikrinimus:ar gautas rezultatas yra [8-10];ar gautas rezultatas yra [5-8);ar gautas rezultatas yra < 5.
+
         Console.Write("Įveskite egzamino rezultata:");
         int rezultatas = Convert.ToInt32(Console.ReadLine());
         if (rezultatas >= 8 && rezultatas <= 10)
@@ -45,6 +46,7 @@ class Program
             Console.WriteLine("Įvestas neteisingas egzamino rezultatas.");
         }
         Console.WriteLine();
+
         //Liepkite įvesti du skaičius. Patikrinkite (naudojant 4 atskirus if’us): ar pirmas skaičius yra didesnis už antrąjį, arba yra lygus 0;ar antras skaičius yra didesnis už pirmąjį, arba yra lygus 5;ar pirmas skaičius yra didesnis už antrąjį ir yra lygus 20;ar antras skaičius yra didesnis už pirmąjį ir yra mažesnis už 100.
 
         Console.Write("Įveskite pirmąjį skaičių: ");
@@ -76,4 +78,3 @@ class Program
 
     }
 }
-       
