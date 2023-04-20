@@ -33,8 +33,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uzduotis15", "uzduotis15\uzduotis15.csproj", "{965B5491-A981-4FAB-886B-139FEBDBF3DB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uzduotis16", "uzduotis16\uzduotis16.csproj", "{639F74A6-0012-4DBA-AFC0-1569F3F64E6E}"
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uzduotis20", "uzduotis20\uzduotis20.csproj", "{8679E1D9-1A55-43C0-A6F6-BE1AB5597796}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uzduotis20", "uzduotis20\uzduotis20.csproj", "{8679E1D9-1A55-43C0-A6F6-BE1AB5597796}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
