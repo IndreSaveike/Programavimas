@@ -1,5 +1,10 @@
 ﻿namespace uzduotis23;
 using System;
+//Susikurkite kintamąjį, kuris pasakytų kiek automobilis vidutiniškai sunaudoja degalų 100 – ui km.Susikurkite masyvą, kuriame saugotumėte skirtingose
+//kelionėse nuvažiuotų kilometrų rodmenis.Raskite:
+//rumpiausią kelionę;
+//ilgiausią kelionę;
+//kiek kuro sąnaudų sunaudojo automobilis(skaičiavimui reikės rasti visus  nuvažiuotus km).
 
 class Program
 {
