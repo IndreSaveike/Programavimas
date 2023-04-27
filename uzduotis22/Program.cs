@@ -1,5 +1,16 @@
 ﻿namespace uzduotis22;
 using System;
+//Susikurkite savaitės temperatūrų rodmenų masyvą.Raskite:
+//1.žemiausią temperatūrą;
+//2.didžiausią temperatūrą;
+//3.vidurkį;
+//4.temperatūrų, esančių žemiau už vidurkį, kiekį;
+//5.Temperatūrų, esančių aukščiau už vidurkį, kiekį.
+//Susikurkite studentų pažymių masyvą.Raskite:
+//1.geriausią pažymį;
+//2.kiek mokinių yra gavę dešimtukus;
+//3.kiek mokinių yra gavę neigiamą pažymį(žemiau nei 4);
+//4.pažymių vidurkį.
 
 class Program
 {
